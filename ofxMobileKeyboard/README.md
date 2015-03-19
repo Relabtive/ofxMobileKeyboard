@@ -1,0 +1,34 @@
+ofxMobileKeyboard
+=====================================
+
+Introduction
+------------
+C++ openFrameworks addon for native mobile keyboard callbacks (Android/iOS). It calls a native device keyboard to type in a native mobile OS textbox via OF.
+
+License
+-------
+The code in this repository is available under the [MIT License](https://secure.wikimedia.org/wikipedia/en/wiki/Mit_license). 
+Copyright (c) 2015 Enric Marco, 
+[Relabtive](http://www.relabtive.com) 
+
+Installation
+------------
+Copy to your `openFrameworks/addons/` folder.
+CopyofxMobileKeyboardExampleAndroid to your Android workspace.
+
+Compatibility
+------------
+Openframeworks 0.8.4 (Android/iOS).
+Tested on Linux and Mac OS X.
+
+Known issues
+------------
+None
+
+Version history
+------------
+
+### Version 1.0 18/03/15:
+First Version
+
+
