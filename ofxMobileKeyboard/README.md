@@ -14,7 +14,7 @@ Copyright (c) 2015 Enric Marco,
 Installation
 ------------
 Copy to your `openFrameworks/addons/` folder.
-CopyofxMobileKeyboardExampleAndroid to your Android workspace.
+Copy ofxMobileKeyboardExampleAndroid to your Android workspace.
 
 Compatibility
 ------------
