@@ -7,7 +7,8 @@ C++ openFrameworks addon for native mobile keyboard callbacks (Android/iOS). It 
 
 License
 -------
-The code in this repository is available under the [MIT License](https://secure.wikimedia.org/wikipedia/en/wiki/Mit_license). 
+The code in this repository is available under the [MIT License](https://secure.wikimedia.org/wikipedia/en/wiki/Mit_license).   
+
 Copyright (c) 2015 Enric Marco, Carlos Narro, Joan Sànchez
 [Relabtive](http://www.relabtive.com) 
 
