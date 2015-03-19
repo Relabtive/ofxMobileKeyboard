@@ -15,11 +15,11 @@ Copyright (c) 2015 Enric Marco, Carlos Narro, Joan Sànchez
 Installation
 ------------
 
-Android  
+Android:  
 Copy to your `openFrameworks/addons/` folder.  
 Copy ofxMobileKeyboardExampleAndroid to your Android workspace.  
 
-iOS  
+iOS:  
 Copy ofxMobileKeyboard to your `openFrameworks/addons/` folder.  
 Run ofxMobileKeyboardExampleiOS.
 
